@@ -1,0 +1,24 @@
+{
+    "header": {
+        "filament_id": "debc8dd8-cdf1-41d8-97ff-8601e9b01d7e",
+        "filament_name": "PLA 1.75mm - V2 Hot End"
+    },
+    "override_slice_settings": true,
+    "settings": {
+        "filament_brand": "Prusa",
+        "filament_density": 1240,
+        "filament_diameter": 1.75,
+        "filament_display_name": "Prusament PLA",
+        "filament_flowrate": 95,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "M900 K0.06; LA 1.5\nM900 K30; LA1.0",
+        "filament_name_abbreviation": "Prusament PLA",
+        "filament_notes": "",
+        "filament_price": 30
+    },
+    "slice_settings": {
+        "temperature_extruder1": 215,
+        "temperature_heatbed": 60
+    },
+    "version": 1
+}
