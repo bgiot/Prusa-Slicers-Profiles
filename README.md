@@ -3,6 +3,6 @@
 
 ## This repository contains my custom profiles to use with slicing softwares.
 
-My printer is a MK3 with a Bondtech extruder.  If you printer is different, you probably will have to adapt some settings.
+My ED printer is a Prusa MK3 with a Bondtech extruder.  If you printer is different, you will probably have to adapt some settings.
 
-_I'm not responsible of any damage you can have by using my profiles.  I shares them just for people who want to experiment new slicing softwares_
+_I'm not responsible of any damages you can have with you printer by using my profiles.  I shares them just for people who want to experiment new slicing softwares_
